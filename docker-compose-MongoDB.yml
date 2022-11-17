@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  database:
+    image: mongo
+    restart: always
+    environment:
+      MONGOLAB_URI: mongodb://localhost:27017/database
+    ports:
+      - '27017:27017'

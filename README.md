@@ -14,7 +14,7 @@
 ## 📥 download
 
 Antes de começar, você precisará ter as seguintes ferramentas instaladas em sua máquina:
-[Git](https://git-scm.com), [docker](https://www.docker.com) este projeto usa o **_ _**. Além disso, é bom ter um editor para trabalhar com código como [VSCode](https://code.visualstudio.com/).
+[Git](https://git-scm.com), [docker](https://www.docker.com) este projeto usa o **_docker-compose v1.27.4_**. Além disso, é bom ter um editor para trabalhar com código como [VSCode](https://code.visualstudio.com/).
 
 ### 💻 setup
 

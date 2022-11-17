@@ -20,19 +20,19 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 
 ```php
 # clonar este repositório
-$ git clone 
+$ git clone https://github.com/br3nds0n/bancos-docker.git
 
 # acesse a pasta do projeto
-$ cd 
+$ cd bancos-docker
 ```
 
 ## ▶ starting
 
 ```php
 # executando o comando
-$ docker-compose -f ./docker-compose-<banco>.yml up
+$ ./run-<banco>
 
-# o container iniciará
+# o banco iniciará em um container docker
 ```
 
 <br>

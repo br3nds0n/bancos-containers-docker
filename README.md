@@ -1,4 +1,4 @@
-# 🐳 containers docker [<img align="right" src="https://img.shields.io/badge/release-v0.0.1-green">]()
+# 🐳 bancos em containers docker [<img align="right" src="https://img.shields.io/badge/release-v0.0.1-green">]()
 
 <br>
 
@@ -20,10 +20,11 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 
 ```php
 # clonar este repositório
-$ git clone https://github.com/br3nds0n/bancos-docker.git
+$ git clone https://github.com/br3nds0n/bancos-containers-docker.git
 
 # acesse a pasta do projeto
-$ cd bancos-docker
+$ cd bancos-containers-docker.git
+
 ```
 
 ## ▶ starting
@@ -77,4 +78,4 @@ Este repositório está licenciado sob **MIT LICENSE**. Para informações mais 
 
 <br> 
 	
-[[ ↑ voltar ]](#-readme-)
+[[ ↑ voltar ]](#-bancos-em-containers-docker-)
